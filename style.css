@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(138, 139, 139);
+}
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 25px;
+    color: red;
+    text-align: center;
+    border: none;
+    background-color: white;
+}
+.game {
+  text-align: center;
+  width: 350px;
+}
+.first {
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+}
+.second {
+    display: flex;
+}
+.third {
+    display: flex;
+}
+.re {
+    margin-top: 20px;
+    width: 80px;
+    border-radius: 10px;
+    background-color:black;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+}
+.news {
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    border: none;
+    margin-left: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+footer {
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: #3333;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 15px;
+}
